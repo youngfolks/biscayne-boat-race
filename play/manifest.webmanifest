@@ -1,7 +1,7 @@
 {
-  "name": "Classic Boat Race",
+  "name": "Biscayne Bay Boat Racing",
   "short_name": "Boat Race",
-  "description": "Race mahogany speedboats on 1920s Biscayne Bay and 1950s Lake Como. A free browser demo of the iPhone game.",
+  "description": "Race mahogany speedboats around 1920s Biscayne Bay. A free browser demo of the iPhone game.",
   "start_url": "./",
   "scope": "./",
   "display": "fullscreen",
